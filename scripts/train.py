@@ -1,0 +1,1 @@
+print("Training script placeholder. Add training logic for U-Net or ResNet here.")
